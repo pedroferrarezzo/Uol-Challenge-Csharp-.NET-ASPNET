@@ -1,0 +1,51 @@
+﻿@model Desafio_UOL.ViewModel.JogadorExibicaoViewModel
+
+<h4>Detalhes</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div class="form-group">
+            <label asp-for="Nome" class="control-label fw-bold"></label>
+            <div class="col-md-10">
+                <span>@Model.Nome</span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group">
+            <label asp-for="Email" class="control-label fw-bold"></label>
+            <div class="col-md-10">
+                <span>@Model.Email</span>
+            </div>
+        </div>
+        <br />
+
+        @if (Model.Telefone != null)
+        {
+            <div class="form-group">
+                <label asp-for="Telefone" class="control-label fw-bold"></label>
+                <div class="col-md-10">
+                    <span>@Model.Telefone</span>
+                </div>
+            </div>
+            <br />
+        }
+        
+        <div class="form-group">
+            <label asp-for="Codinome" class="control-label fw-bold"></label>
+            <div class="col-md-10">
+                <span>@Model.Codinome.Nome</span>
+            </div>
+        </div>
+        <br />
+        <div class="form-group">
+            <label asp-for="Codinome.Grupo" class="control-label fw-bold"></label>
+            <div class="col-md-10">
+                <span>@Model.Codinome.Grupo.Nome</span>
+            </div>
+        </div>
+        <br />
+    </div>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+</div>
