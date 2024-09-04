@@ -4,6 +4,7 @@
 - .NET 8.0;
 - Projeto ASP.NET Core Web App (Model-View-Controller);
 - EntityFramework ORM 8.0;
+- Oracle Database XE;
 - AutoMapper;
 - Docker.
 
