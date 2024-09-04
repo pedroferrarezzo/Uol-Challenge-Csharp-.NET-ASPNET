@@ -27,8 +27,7 @@
 - Docker;
 	- Container Oracle Database XE -> https://hub.docker.com/r/gvenzl/oracle-xe;
  	- Container ASP.NET -> https://hub.docker.com/r/microsoft/dotnet-aspnet/
-- IP Público + DNS Cloudflare;
-- Acessível através da URL: http://challenge.ferrarezzo.com.br/Home
+- IP Público + DNS Cloudflare.
 
 # DESAFIO
 
