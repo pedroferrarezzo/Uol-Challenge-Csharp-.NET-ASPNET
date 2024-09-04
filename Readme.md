@@ -1,3 +1,37 @@
+## RESOLUÇÃO
+
+# TECNOLOGIAS E BIBLIOTECAS UTILIZADAS
+- .NET 8.0;
+- Projeto ASP.NET Core Web App (Model-View-Controller);
+- EntityFramework ORM 8.0;
+- AutoMapper;
+- Docker.
+
+# BOAS PRÁTICAS E DESIGN PATTERNS UTILIZADOS
+- MVC - Model, View e Controller;
+- Model View ViewModel - MVVM;
+- Services;
+- Repositories;
+- Exceptions customizadas;
+- Versionamento do banco de dados com Migrations;
+- Injeção de dependência.
+
+# MODELO DE ENTIDADE E RELACIONAMENTO
+![MER](https://github.com/user-attachments/assets/25774922-dbe1-4cba-a734-1895ea9707b6)
+
+# DEPLOY
+- Máquina virtual criada no provedor de núvem público Azure;
+	- Ubuntu 24.04.1 LTS;
+	- 2 vcpu;
+	- 8 Gib RAM
+- Docker;
+	- Container Oracle Database XE -> https://hub.docker.com/r/gvenzl/oracle-xe;
+ 	- Container ASP.NET -> https://hub.docker.com/r/microsoft/dotnet-aspnet/
+- IP Público + DNS Cloudflare;
+- Acessível através da URL: http://challenge.ferrarezzo.com.br/Home
+
+## DESAFIO
+
 Sobre o UOL HOST
 ===============
 O UOL HOST oferece soluções em hospedagem de sites, loja virtual, loja de aplicativos, revenda de hospedagem, registro de domí­nios, e-mail marketing, cloud computing, entre outros, contando com a confiabilidade e a escalabilidade de uma moderna infraestrutura de TI, composta por uma das maiores redes de Data Centers da América Latina.
