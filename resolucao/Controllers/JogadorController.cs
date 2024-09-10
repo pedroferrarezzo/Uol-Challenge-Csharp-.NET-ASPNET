@@ -94,6 +94,28 @@ namespace Desafio_UOL.Controllers
         }
 
         [HttpGet]
+        public IActionResult Chart()
+        {
+            try
+            {
+                var jogadores = _jogadorService.GetAll();
+                var jogadoresViewModel = new List<JogadorExibicaoViewModel>();
+
+                foreach (JogadorModel jogador in jogadores)
+                {
+                    var jogadorViewModel = _mapper.Map<JogadorExibicaoViewModel>(jogador);
+                    jogadoresViewModel.Add(jogadorViewModel);
+                }
+                return View(jogadoresViewModel);
+            }
+            catch (Exception ex)
+            {
+                TempData["error"] = ex.Message;
+                return RedirectToAction(nameof(Index));
+            }
+        }
+
+        [HttpGet]
         public IActionResult Create()
         {
             try

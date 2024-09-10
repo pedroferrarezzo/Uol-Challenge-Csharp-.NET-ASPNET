@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FIAP\\Resolução\\Desafio UOL.csproj": {}
+    "D:\\FIAP\\DesafioUOL\\resolucao\\Desafio UOL.csproj": {}
   },
   "projects": {
-    "D:\\FIAP\\Resolução\\Desafio UOL.csproj": {
+    "D:\\FIAP\\DesafioUOL\\resolucao\\Desafio UOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FIAP\\Resolução\\Desafio UOL.csproj",
+        "projectUniqueName": "D:\\FIAP\\DesafioUOL\\resolucao\\Desafio UOL.csproj",
         "projectName": "Desafio UOL",
-        "projectPath": "D:\\FIAP\\Resolução\\Desafio UOL.csproj",
+        "projectPath": "D:\\FIAP\\DesafioUOL\\resolucao\\Desafio UOL.csproj",
         "packagesPath": "C:\\Users\\pedrof\\.nuget\\packages\\",
-        "outputPath": "D:\\FIAP\\Resolução\\obj\\",
+        "outputPath": "D:\\FIAP\\DesafioUOL\\resolucao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedrof\\AppData\\Roaming\\NuGet\\NuGet.Config",

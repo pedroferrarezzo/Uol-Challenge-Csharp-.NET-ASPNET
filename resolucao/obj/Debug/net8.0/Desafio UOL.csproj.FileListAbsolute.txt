@@ -452,3 +452,117 @@ D:\FIAP\Resolução\obj\Debug\net8.0\refint\Desafio UOL.dll
 D:\FIAP\Resolução\obj\Debug\net8.0\Desafio UOL.pdb
 D:\FIAP\Resolução\obj\Debug\net8.0\Desafio UOL.genruntimeconfig.cache
 D:\FIAP\Resolução\obj\Debug\net8.0\ref\Desafio UOL.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\appsettings.Development.json
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\appsettings.json
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Desafio UOL.staticwebassets.runtime.json
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Desafio UOL.exe
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Desafio UOL.deps.json
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Desafio UOL.runtimeconfig.json
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Desafio UOL.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Desafio UOL.pdb
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\AutoMapper.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Humanizer.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\System.CodeDom.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\FIAP\DesafioUOL\resolucao\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.csproj.AssemblyReference.cache
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.AssemblyInfoInputs.cache
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.AssemblyInfo.cs
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.csproj.CoreCompileInputs.cache
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.MvcApplicationPartsAssemblyInfo.cache
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.RazorAssemblyInfo.cache
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.RazorAssemblyInfo.cs
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.sourcelink.json
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\staticwebassets.build.json
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\staticwebassets.development.json
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\staticwebassets\msbuild.Desafio UOL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\staticwebassets\msbuild.build.Desafio UOL.props
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Desafio UOL.props
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Desafio UOL.props
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\scopedcss\bundle\Desafio UOL.styles.css
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\scopedcss\projectbundle\Desafio UOL.bundle.scp.css
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio .4BD5C7C2.Up2Date
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.dll
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\refint\Desafio UOL.dll
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.pdb
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\Desafio UOL.genruntimeconfig.cache
+D:\FIAP\DesafioUOL\resolucao\obj\Debug\net8.0\ref\Desafio UOL.dll
