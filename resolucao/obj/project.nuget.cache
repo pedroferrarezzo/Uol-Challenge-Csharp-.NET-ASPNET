@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MmbtGRhrFU4=",
+  "dgSpecHash": "a0biv9HC+N0=",
   "success": true,
-  "projectFilePath": "D:\\FIAP\\Resolução\\Desafio UOL.csproj",
+  "projectFilePath": "D:\\FIAP\\DesafioUOL\\resolucao\\Desafio UOL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedrof\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pedrof\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
